@@ -1,0 +1,14 @@
+{
+  "name": "env",
+  "version": "1.0.0",
+  "description": "environmental variable test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}

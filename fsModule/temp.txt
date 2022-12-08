@@ -1,0 +1,3 @@
+createReadStream.on('end', ()=>{
+    console.log(datas);
+})
